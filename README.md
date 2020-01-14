@@ -1,4 +1,4 @@
-# homework-one
+# excel-challenge
 This is a repo  that contains my solution to Homework 1 - Excel Challenge.
 
 The main Homework solutions are included in MS Excel file **HW1_QAZI_Nabeel.xlsx**.

@@ -1,5 +1,5 @@
 # homework-one
-This is a repo  that contains my solution to Homework 1 for Cohort 6 Databootcamp.
+This is a repo  that contains my solution to Homework 1 - Excel Challenge.
 
 The main Homework solutions are included in MS Excel file **HW1_QAZI_Nabeel.xlsx**.
 
